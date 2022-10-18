@@ -29,21 +29,14 @@
          "description": "Get API_HASH from my.telegram.org, used for How All Inline.",
          "required": true,
          "value": ""
-        }
-      
-     }
-}
         },
        "OWNER_ID":{
           "description": "Get OWNER_ID FROM @MissRose_bot.",
           "required": true,
           "value": ""
-          }
-      }
-}
-      
-
+          },      
           "BOT_USERNAME":{
           "description": "Get BOT_USERNAME FROM @BOTFATHER.",
           "required": true,
           "value": ""
+          }
