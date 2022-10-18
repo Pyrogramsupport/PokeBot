@@ -35,12 +35,10 @@
           "required": true,
           "value": ""
           },
-      }
-     
-     
-      
-
-          "BOT_USERNAME":{
+      "BOT_USERNAME":{
           "description": "Get BOT_USERNAME FROM @BOTFATHER.",
           "required": true,
           "value": ""
+          }
+      }
+     
